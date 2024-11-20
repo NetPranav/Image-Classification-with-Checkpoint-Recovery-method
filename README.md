@@ -20,13 +20,13 @@ This project implements a **FashionMNIST image classification model** using PyTo
    ```
 
 ## Usage
-1. Train the model:
+1. Training and testing the model:
    ```bash
-   python train.py
+   python train_and_test.py
    ```
 2. Load and test a saved checkpoint:
    ```bash
-   python test.py
+   python Progressive_checkpoint_training.py
    ```
 
 ## Results
