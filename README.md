@@ -36,8 +36,8 @@ This project implements a **FashionMNIST image classification model** using PyTo
 - Results of the model can easily be increased by tweaking and playing with it but the project's approach was to keep it as simple as possible and showcase the technique of the and advantages of Progressive checkpoint training.
 
 ## Files in the Repository
-- **train.py**: Contains the training loop with progressive checkpoint saving.
-- **test.py**: Code to evaluate the saved model on test data.
+- **train_and_test.py**: Contains the training loop with progressive checkpoint saving.
+- **Progressive_checkpoint_training.py**: Code to evaluate the saved model on test data.
 - **model.py**: The CNN model definition.
 - **README.md**: This documentation.
 - **requirements.txt**: Dependencies for the project.
